@@ -1,5 +1,5 @@
-# Laboratorios de topicos especiales en telematica
-# Miguel Cabrera, macabrerao@eafit.edu.co
+# Laboratorios de topicos especiales en telematica 🛜
+# Miguel Cabrera, macabrerao@eafit.edu.co 🧑‍🎓
 # Profesor: Edwin Nelson Montoya, emontoya@eafit.edu.co
 
 # 1. breve descripción de la actividad
