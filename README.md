@@ -29,4 +29,4 @@ No quedo ninguna actividad pendiente, se realizaron los laboratorios completos
 * [Lab 3-3](lab3-3)
   
 ## URL del bucket publico:
-* [Bucket macabrerao publico](https://macabrerao.s3.us-east-1.amazonaws.com/)
+* [Bucket macabrerao publico](https://sbetancurb.s3.us-east-1.amazonaws.com/)
